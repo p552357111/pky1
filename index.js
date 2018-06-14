@@ -6,6 +6,5 @@ for(var i =0;i<oLi.length;i++){
 			oLi[y].className='';
 		}
 		oLi[this.index].className="active";
-		
 	}
 }
